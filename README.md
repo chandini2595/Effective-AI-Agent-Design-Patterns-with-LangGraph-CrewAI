@@ -18,7 +18,7 @@ Agent traces are visualized using **LangSmith Studio**, and a single video walkt
 | Component | Link |
 |----------|------|
 | 🧠 LangGraph Notebook | [LangGraph Colab](https://colab.research.google.com/drive/1dxVBBOIpfkogq_NqeiCjMqudMmU5d8Cr?usp=sharing) |
-| 🤖 CrewAI Notebook | [CrewAI Colab](https://colab.research.google.com/drive/crewai_combined_dummy_link) |
+| 🤖 CrewAI Notebook | [CrewAI Colab](https://colab.research.google.com/drive/1CeDij7qoamNs5gWK9skqIQh3OrndLccj?usp=sharing) |
 | 🎥 Video Walkthrough | [Watch on YouTube](https://youtu.be/assignment7_full_walkthrough_dummy) |
 ---
 
